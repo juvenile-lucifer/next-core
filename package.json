@@ -43,7 +43,7 @@
     "@babel/types": "^7.13.17",
     "@cypress/browserify-preprocessor": "^3.0.1",
     "@easyops-cn/api-documenter": "^7.9.3",
-    "@microsoft/api-extractor": "^7.13.1",
+    "@microsoft/api-extractor": "^7.14.0",
     "@next-bricks/basic-bricks": "^1.111.3",
     "@next-bricks/basic-providers": "^1.2.4",
     "@next-bricks/general-auth": "^1.4.12",
